@@ -1,0 +1,14 @@
+[
+	{
+		"Name": "1",
+		"id": 1,
+		"hair_mesh": "StaticMesh'/Engine/BasicShapes/Cube.Cube'",
+		"hair_material_instance": "None"
+	},
+	{
+		"Name": "2",
+		"id": 2,
+		"hair_mesh": "StaticMesh'/Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere'",
+		"hair_material_instance": "None"
+	}
+]

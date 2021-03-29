@@ -1,0 +1,11 @@
+
+Stadium limits:
+Absolute center point: X 108602, Y 18595
+X1: 103627	X2: 113577	CenterX: 108602
+Y1: 15140	Y2: 22050	CenterY: 18595
+
+
+Player data base structure:
+DTs for Rarity,
+DTs for Rarity and Role
+DT for all players

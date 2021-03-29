@@ -1,0 +1,4 @@
+---,hair_mesh,hair_material_instance
+1,"StaticMesh'/Engine/BasicShapes/Cube.Cube'","None"
+2,"StaticMesh'/Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere'","None"
+3,"StaticMesh'/Game/Stadium/Assets/Foootball_Gate.Foootball_Gate'","MaterialInstanceConstant'/Game/Stadium/Materials/Gate_Inst.Gate_Inst'"
